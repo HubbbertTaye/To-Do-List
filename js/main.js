@@ -5,6 +5,7 @@ $(document).ready(function(){
     var toDo = $("input").val()
     //append list items into the ul
     $("ul").append("<li>"+toDo+"</li>");
+    $("input").val("");
     var total = $("ul").children().length;
     $("#total").html(`Number of things to do: ${total}`);
     //items can be removed
@@ -15,7 +16,7 @@ $(document).ready(function(){
         counter = 0;
       }
       $("#total").html(`Number of things to do: ${total}`);
-    })
+    })//closes remove li event function
   }); //closes add list item button
 
   //another button to remove all items
