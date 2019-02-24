@@ -96,3 +96,13 @@ ul li{
     font-size: 1.5em;
   }
 }
+@media (min-width: 769px) and (max-width: 1180px){
+  #eraseAll{
+    left: 148px;
+  }
+}
+@media (min-width: 1178px) and (max-width: 1439px){
+  #eraseAll{
+    left: 217px;
+  }
+}
