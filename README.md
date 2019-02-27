@@ -1,6 +1,11 @@
 # Cute "To-do" List
 
 A simple to-do list that displays whatever is inputted and can be individually removed or clear all.
+<<<<<<< HEAD
+=======
+
+**Link to Project:** https://hubberttaye.github.io/To-Do-List/
+>>>>>>> ead79119ac94ce03d95e30e9d065f2ed56a39b49
 
 ![alt text](img/todolist.png)
 
