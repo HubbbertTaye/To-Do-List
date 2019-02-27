@@ -1,13 +1,12 @@
 # Cute "To-do" List
 
 A simple to-do list that displays whatever is inputted and can be individually removed or clear all.
-**Link to Project:** https://hubberttaye.github.io/To-Do-List/
 
-![alt text](img/tdlscreen.png)
+![alt text](img/todolist.png)
 
 ### How its made:
 
-**Languages used:** HTML5, CSS3, Javascript and jquery
+**languages used:** HTML5, CSS3, Javascript and jquery
 
 First formulated my HTML and layout to be javascript friendly, added IDs and setup my form for the button and input elements. Then I built out my js program. Mostly used jquery for the event listeners on both buttons and removing list items one by one. Fixed edge-cases like the counter not resetting items are erased and making empty list items.
 
